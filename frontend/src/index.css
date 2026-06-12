@@ -1,0 +1,28 @@
+@import "tailwindcss";
+@plugin "daisyui" {
+  themes: talenthunt --default;
+}
+
+@plugin "daisyui/theme" {
+  name: "talenthunt";
+  --color-primary: #ff6b00; /* Vibrant Orange */
+  --color-primary-content: #ffffff;
+  --color-secondary: #f97316; /* Warm Orange */
+  --color-secondary-content: #ffffff;
+  --color-accent: #ea580c; /* Deep Orange */
+  --color-accent-content: #ffffff;
+  --color-neutral: #1f2937;
+  --color-neutral-content: #f9fafb;
+  --color-base-100: #ffffff; /* White base */
+  --color-base-200: #fafafa;
+  --color-base-300: #f4f4f5;
+  --color-base-content: #18181b;
+}
+
+/* Add cursor pointer to buttons by default - this is coming from tailwind docs */
+@layer base {
+  button:not(:disabled),
+  [role="button"]:not(:disabled) {
+    cursor: pointer;
+  }
+}
