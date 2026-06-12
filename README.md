@@ -17,10 +17,14 @@ Featuring a unified **VSCode-powered Monaco code editor**, a fully isolated **co
 ## 📸 Application Previews
 
 ### Collaborative Coding Session Dashboard
-![Talent Hunt Dashboard](frontend/public/screenshot-for-readme.png)
+<p align="left">
+  <img src="frontend/public/screenshot-for-readme.png" alt="Talent Hunt Dashboard" width="850" style="max-width: 100%; height: auto;" />
+</p>
 
 ### Landing Page & Welcome Screen
-![Talent Hunt Landing Page](frontend/public/hero.png)
+<p align="left">
+  <img src="frontend/public/hero.png" alt="Talent Hunt Landing Page" width="850" style="max-width: 100%; height: auto;" />
+</p>
 
 ---
 
