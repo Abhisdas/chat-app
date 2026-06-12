@@ -14,6 +14,16 @@ Featuring a unified **VSCode-powered Monaco code editor**, a fully isolated **co
 
 ---
 
+## 📸 Application Previews
+
+### Collaborative Coding Session Dashboard
+![Talent Hunt Dashboard](frontend/public/screenshot-for-readme.png)
+
+### Landing Page & Welcome Screen
+![Talent Hunt Landing Page](frontend/public/hero.png)
+
+---
+
 ## 🗺️ System Architecture
 
 The following diagram illustrates how the frontend, backend server, in-memory/MongoDB database, code execution API, and communication frameworks interact seamlessly under Talent Hunt:
