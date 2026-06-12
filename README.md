@@ -34,12 +34,12 @@ The following diagram illustrates how the frontend, backend server, in-memory/Mo
 
 ```mermaid
 graph TD
-    A[Talent Hunt Client] -->|HTTP/REST APIs| B[Express.js Backend Server]
-    A -->|Code Compilation| C[Piston Execution Engine]
-    A -->|Video Call & Chat| D[Mock Collaboration UI]
+    A["Talent Hunt Client"] -->|HTTP/REST APIs| B["Express.js Backend Server"]
+    A -->|Code Compilation| C["Piston Execution Engine"]
+    A -->|Video Call & Chat| D["Mock Collaboration UI"]
     
-    B -->|User Auth| E{Clerk Auth / Mock Provider}
-    B -->|Data Persistence| F[MongoDB / In-Memory Mock DB]
+    B -->|User Auth| E{"Clerk Auth / Mock Provider"}
+    B -->|Data Persistence| F["MongoDB / In-Memory Mock DB"]
     
     subgraph Client Services
         D
