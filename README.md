@@ -12,7 +12,6 @@ Talent Hunt is a highly responsive, modern, and interactive full-stack web appli
 
 Featuring a unified **VSCode-powered Monaco code editor**, a fully isolated **code execution sandbox**, live **HD video calling**, real-time **interactive text chat**, and database persistence—all wrapped in a vibrant custom **white & orange theme**.
 
-
 ---
 
 ## 📸 Application Previews
