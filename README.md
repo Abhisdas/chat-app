@@ -8,7 +8,6 @@
   <img src="https://img.shields.io/badge/MongoDB-Mongoose-47A248.svg?style=for-the-badge&logo=mongodb" alt="MongoDB Badge"/>
 </p>
 
-
 Talent Hunt is a highly responsive, modern, and interactive full-stack web application designed for real-time collaborative coding sessions, coding interviews, and remote pair programming.
 
 Featuring a unified **VSCode-powered Monaco code editor**, a fully isolated **code execution sandbox**, live **HD video calling**, real-time **interactive text chat**, and database persistence—all wrapped in a vibrant custom **white & orange theme**.
