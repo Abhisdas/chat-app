@@ -27,6 +27,7 @@ Featuring a unified **VSCode-powered Monaco code editor**, a fully isolated **co
 </p>
 
 ---
+
 ## 🗺️ System Architecture
 
 The following diagram illustrates how the frontend, backend server, in-memory/MongoDB database, code execution API, and communication frameworks interact seamlessly under Talent Hunt:
